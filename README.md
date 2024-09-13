@@ -4,4 +4,4 @@
 
 SNF-Projekt 01.08.2024 – 31.07.2028
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg")
+![](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg)
