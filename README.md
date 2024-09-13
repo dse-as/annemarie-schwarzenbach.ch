@@ -2,6 +2,6 @@
 
 # Annemarie Schwarzenbach: Digitale Edition der Kleinen Formen und Briefe. Reisetexte, Intermedialität, Netzwerke
 
-SNF-Projekt 01.08.2024 – 31.07.2028
+[SNF-Projekt 01.08.2024 – 31.07.2028](https://data.snf.ch/grants/grant/10000500)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg)
