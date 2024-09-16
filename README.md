@@ -9,8 +9,8 @@ Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:in
 
 ![Annemarie Schwarzenbach in Malans, 1938. Fotografie v. Anita Forrer (1901-1996).](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg)
 
-_Annemarie Schwarzenbach in Malans, 1938. Fotografie v. Anita Forrer (1901-1996)._ <br/>
-Schweizerisches Literaturarchiv, Nachlass Annemarie Schwarzenbach E-5/04.  
+##[_Annemarie Schwarzenbach in Malans, 1938. Fotografie v. Anita Forrer (1901-1996)._] <br/>
+##[Schweizerisches Literaturarchiv, Nachlass Annemarie Schwarzenbach E-5/04.]  
 
 ## Digitale Edition der Kleinen Formen und Briefe  
 Es werden zum einen sämtliche von Schwarzenbach verfassten Kleine Formen digital ediert, d.h. alle unselbständig veröffentlichten und unveröffentlichten Reiseberichte, Feuilletons und Bildberichte sowie alle kurzen autobiographischen und fiktionalen Texte. Es handelt sich dabei, Varianten und Vorstufen nicht mitgezählt, um ungefähr 510 Texte; davon werden 340 postum zum ersten Mal ediert. Da Schwarzenbach über ein umfangreiches Beziehungsnetz in der Kunst- und Politikszene der Zeit verfügte und ihr Werk eng mit ihrer Biografie verflochten ist, werden zum anderen die über 650 erhaltenen Briefe der Autorin – die Gegenbriefe sind kaum erhalten – herausgegeben. Die Briefe und Kleinen Formen werden erstmals umfassend textgetreu, nach wissenschaftlichen Standards und unter Integration der von Schwarzenbach gemachten fotografischen Aufnahmen ediert.  
