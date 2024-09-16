@@ -29,6 +29,7 @@ jobs:
     - uses: wranders/markdown-to-pages-action@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        title: "Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe"
         files: |-
           README.md
 #          test/README.md
