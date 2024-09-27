@@ -49,7 +49,7 @@ Doktorandin: [MA Jana Schräder-Grau](https://www.unige.ch/lettres/alman/de/ense
 
 Leitung: [Prof. Dr. Sabine Schneider](https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=116)  
 Verantwortung Edition: [PD Dr. Daniela Kohler](https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=1478)  
-Doktorandin: MA Céline Hübscher  
+Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=1488)   
 
  *Digitale Entwicklung: [Data Science Lab](https://www.dsl.unibe.ch/), Universität Bern*  
 [Peter Dängeli](http://www.dh.unibe.ch/ueber_uns/personen/daengeli_peter/), [Christian Forney](http://www.hist.unibe.ch/ueber_uns/personen/forney_christian/), [Sebastian Flick](http://www.dsl.unibe.ch/about_us/people_metadata/flick_sebastian/)  
