@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: wranders/markdown-to-pages-action@d83f73b992f56824d474cce0486054624488c808
+      - uses: wranders/markdown-to-pages-action@v1.1.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           title: "Annemarie Schwarzenbach. Digitale Edition der Kleinen Formen und Briefe"
