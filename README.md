@@ -4,6 +4,7 @@
 
 Hier entsteht die Projektwebsite des [SNF-Editionsprojekts](https://data.snf.ch/grants/grant/10000500).<br/>
 Laufzeit: 01.08.2024 – 31.07.2028.  
+Aktuelle Veranstaltungen finden Sie [hier](README.md#aktuelle-veranstaltungen).
 
 Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar. Das Editionsprojekt macht bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition zugänglich und präsentiert sie im sozialen, kulturellen und politischen Kontext der Autorin und ihrer Zeit.
 
@@ -60,13 +61,19 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 
 ## Aktuelle Veranstaltungen
 
-**20. Juni 2025: Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**
+**20. Juni 2025: Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**<br/>
+Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
 
-10.00-17.30 Uhr, Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’. [Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
+10.00-17.30 Uhr <br/>
+Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<br/> 
+[Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
 
-**5. September 2025: ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**
+**5. September 2025: ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**<br/>
+In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalytik](https://www.zde.uzh.ch/), UZH, veranstaltet die Edition Annemarie Schwarzenbach einen Workshop zur Konzeption von Interfaces von digitalen Editionen: Was sind heutige Standards, welche Herausforderungen erleben Editionsprojekte, wie sehen Interfaces der Zukunft aus?
 
-13.15-18 Uhr, Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104. [Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
+13.15-18 Uhr <br/>
+Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/> 
+[Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
 
 <br/><br/>
 
