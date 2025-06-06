@@ -58,9 +58,9 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
  *Projektpartner*  
 [Dr. Moritz Wagner](https://www.nb.admin.ch/snl/de/home/ueber-uns/sla/benutzungsla/mitarbeitende.html), Schweizerisches Literaturarchiv  
 [Prof. Dr. Tobias Hodel](https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html), DH Universität Bern 
-
+<br/> <br/> 
 ## Aktuelle Veranstaltungen
-
+<br/> <br/> 
 
 **20. Juni 2025:<br/> 
 Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**<br/>
@@ -69,7 +69,7 @@ Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schw
 10.00-17.30 Uhr <br/>
 Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<br/> 
 [Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
-
+<br/> <br/> 
 
 **5. September 2025:<br/> 
 ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**<br/>
