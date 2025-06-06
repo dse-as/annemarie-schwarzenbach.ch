@@ -61,9 +61,11 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 ## Aktuelle Veranstaltungen
 
 **20. Juni 2025: Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**
+
 10.00-17.30 Uhr, Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’. [Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
 
 **5. September 2025: ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**
+
 13.15-18 Uhr, Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104. [Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
 
 <br/><br/>
