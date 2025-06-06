@@ -56,7 +56,15 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 
  *Projektpartner*  
 [Dr. Moritz Wagner](https://www.nb.admin.ch/snl/de/home/ueber-uns/sla/benutzungsla/mitarbeitende.html), Schweizerisches Literaturarchiv  
-[Prof. Dr. Tobias Hodel](https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html), DH Universität Bern  
+[Prof. Dr. Tobias Hodel](https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html), DH Universität Bern 
+
+## Aktuelle Veranstaltungen
+
+**20. Juni 2025: Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**
+10.00-17.30 Uhr, Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’. [Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
+
+**5. September 2025: ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**
+13.15-18 Uhr, Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104. [Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
 
 <br/><br/>
 
