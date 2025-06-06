@@ -61,14 +61,18 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 
 ## Aktuelle Veranstaltungen
 
-**20. Juni 2025: Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**<br/>
+
+**20. Juni 2025:<br/> 
+Workshop "Intermedialität. Foto-Text-Beziehungenin Theorie und Praxis"**<br/>
 Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
 
 10.00-17.30 Uhr <br/>
 Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<br/> 
 [Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
 
-**5. September 2025: ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**<br/>
+
+**5. September 2025:<br/> 
+ZDE-Workshopreihe _Open Editions_ "Interfaces. Zwischen Haute Couture und Prêt-à-Porter"**<br/>
 In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalytik](https://www.zde.uzh.ch/), UZH, veranstaltet die Edition Annemarie Schwarzenbach einen Workshop zur Konzeption von Interfaces von digitalen Editionen: Was sind heutige Standards, welche Herausforderungen erleben Editionsprojekte, wie sehen Interfaces der Zukunft aus?
 
 13.15-18 Uhr <br/>
