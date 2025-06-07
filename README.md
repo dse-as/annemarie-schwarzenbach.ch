@@ -5,7 +5,7 @@
 Hier entsteht die Projektwebsite des [SNF-Editionsprojekts](https://data.snf.ch/grants/grant/10000500).<br/>
 Laufzeit: 01.08.2024 – 31.07.2028.  
 <br/> 
-Aktuelle Veranstaltungen finden Sie [hier](##aktuelle-veranstaltungen).
+Aktuelle Veranstaltungen finden Sie [unten](##aktuelle-veranstaltungen).
 
 Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar. Das Editionsprojekt macht bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition zugänglich und präsentiert sie im sozialen, kulturellen und politischen Kontext der Autorin und ihrer Zeit.
 
@@ -80,7 +80,7 @@ In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalyt
 Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/> 
 [Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
 
-<br/><br/>
+---
 
 <table>
   <tbody>
