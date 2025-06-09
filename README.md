@@ -61,7 +61,7 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 [Prof. Dr. Tobias Hodel](https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html), DH Universität Bern 
 <br/> <br/> 
 ## Aktuelle Veranstaltungen
----
+
 **20. Juni 2025:**<br/> 
 ### "Intermedialität. Foto-Text-Beziehungen in Theorie und Praxis" Workshop der Edition Annemarie Schwarzenbach<br/>
 Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
