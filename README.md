@@ -84,7 +84,7 @@ Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/>
 
 ---
 
-**08./09. September 2025**
+**8./9. September 2025**
 ### "Feuilletons schreiben und lesen. Annemarie Schwarzenbachs Reisetexte aus journalliterarischer Perspektive"
 #### Zweitägiger Workshop der Edition Annemarie Schwarzenbach in Zusammenarbeit mit der Graduiertenschule UZH
 Prof. Dr. Nicola Kamininski (Universität Bochum) und Prof. Dr. em. Peter Utz (Universität Lausanne) diskutieren anhand exemplarischer Textbeispiele das journalliterarische Phänomen des Feuilletons. Weitere Informationen zum Workshop folgen.
