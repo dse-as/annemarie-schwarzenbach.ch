@@ -63,7 +63,8 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 ## Aktuelle Veranstaltungen
 
 **20. Juni 2025:**<br/> 
-### "Intermedialität. Foto-Text-Beziehungen in Theorie und Praxis" Workshop der Edition Annemarie Schwarzenbach<br/>
+### "Intermedialität. Foto-Text-Beziehungen in Theorie und Praxis" 
+#### Workshop der Edition Annemarie Schwarzenbach<br/>
 Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
 
 10.00-17.30 Uhr <br/>
@@ -73,12 +74,20 @@ Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<b
 ---
 
 **5. September 2025:**<br/> 
-### "Interfaces. Zwischen Haute Couture und Prêt-à-Porter" Workshop der ZDE-Reihe _Open Editions_ <br/>
+### "Interfaces. Zwischen Haute Couture und Prêt-à-Porter" 
+#### Workshop der ZDE-Reihe _Open Editions_ <br/>
 In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalytik](https://www.zde.uzh.ch/), UZH, veranstaltet die Edition Annemarie Schwarzenbach einen Workshop zur Konzeption von Interfaces von digitalen Editionen: Was sind heutige Standards, welche Herausforderungen erleben Editionsprojekte, wie sehen Interfaces der Zukunft aus?
 
 13.15-18 Uhr <br/>
 Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/> 
 [Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
+
+---
+
+**08./09. September 2025**
+### "Feuilletons schreiben und lesen. Annemarie Schwarzenbachs Reisetexte aus journalliterarischer Perspektive" Workshop in Zusammenarbeit
+#### Zweitägiger Workshop der Edition Annemarie Schwarzenbach in Zusammenarbeit mit der Graduiertenschule UZH
+Prof. Dr. Nicola Kamininski (Universität Bochum) und Prof. Dr. em. Peter Utz (Universität Lausanne) diskutieren anhand exemplarischer Textbeispiele das journalliterarische Phänomen des Feuilletons. Weitere Informationen zum Workshop folgen.
 
 ---
 
