@@ -7,7 +7,7 @@ Laufzeit: 01.08.2024 – 31.07.2028.
 <br/> 
 Aktuelle Veranstaltungen finden Sie [unten](#aktuelle-veranstaltungen).
 
-Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar. Das Editionsprojekt macht bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition zugänglich und präsentiert sie im sozialen, kulturellen und politischen Kontext der Autorin und ihrer Zeit.
+Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar, obschon der Nachlass von Annemarie Schwarzenbach im Frühling 2025 in das Register des [UNESCO Weltdokumenterbes](https://www.unesco.org/en/memory-world/register2025?hub=1081) aufgenommen wurde. Das Editionsprojekt macht bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition zugänglich und präsentiert sie im sozialen, kulturellen und politischen Kontext der Autorin und ihrer Zeit.
 
 ![Annemarie Schwarzenbach in Malans, 1938. Fotografie v. Anita Forrer (1901-1996).](https://upload.wikimedia.org/wikipedia/commons/f/f8/SchwarzenbachForrer1938.jpg)
 
