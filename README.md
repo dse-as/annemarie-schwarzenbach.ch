@@ -5,7 +5,7 @@
 Hier entsteht die Projektwebsite des [SNF-Editionsprojekts](https://data.snf.ch/grants/grant/10000500).<br/>
 Laufzeit: 01.08.2024 – 31.07.2028.  
 <br/> 
-Aktuelle Veranstaltungen finden Sie [unten](#aktuelle-veranstaltungen).
+Aktuelle und vergangene Veranstaltungen finden Sie [unten](#aktuelle-veranstaltungen).
 
 Annemarie Schwarzenbach (1908–1942), eine der bedeutendsten Schweizer Autor:innen des 20. Jahrhunderts, hat ein faszinierendes, aus literarischen Gross- und Kleinformen, journalistischen Arbeiten und Fotografien bestehendes Werk hinterlassen. Dieses ist heute unter vielfältigen Gesichtspunkten hochaktuell, jedoch nicht in seiner Gesamtheit greifbar, obschon der Nachlass von Annemarie Schwarzenbach im Frühling 2025 in das Register des [UNESCO Weltdokumenterbes](https://www.unesco.org/en/memory-world/register2025?hub=1081) aufgenommen wurde. Das Editionsprojekt macht bisher verstreut oder gar nicht edierte Texte unter Berücksichtigung der Fotografien in einer digitalen Edition zugänglich und präsentiert sie im sozialen, kulturellen und politischen Kontext der Autorin und ihrer Zeit.
 
@@ -62,17 +62,6 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 <br/> <br/> 
 ## Aktuelle Veranstaltungen
 
-**20. Juni 2025:**<br/> 
-### "Intermedialität. Foto-Text-Beziehungen in Theorie und Praxis" 
-#### Workshop der Edition Annemarie Schwarzenbach<br/>
-Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
-
-10.00-17.30 Uhr <br/>
-Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<br/> 
-[Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
-
----
-
 **5. September 2025:**<br/> 
 ### "Interfaces. Zwischen Haute Couture und Prêt-à-Porter" 
 #### Workshop der ZDE-Reihe _Open Editions_ <br/>
@@ -88,6 +77,21 @@ Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/>
 ### "Feuilletons schreiben und lesen. Annemarie Schwarzenbachs Reisetexte aus journalliterarischer Perspektive"
 #### Zweitägiger Workshop der Edition Annemarie Schwarzenbach in Zusammenarbeit mit der Graduiertenschule UZH
 Prof. Dr. Nicola Kamininski (Universität Bochum) und Prof. Dr. em. Peter Utz (Universität Lausanne) diskutieren anhand exemplarischer Textbeispiele das journalliterarische Phänomen des Feuilletons. Weitere Informationen zum Workshop folgen.
+<br/> <br/> 
+## Vergangene Veranstaltungen
+
+Präsentationen des Projektes werden im Zenodo repository gesammelt: https://zenodo.org/communities/dse-as  
+
+---
+
+**20. Juni 2025:**<br/> 
+### "Intermedialität. Foto-Text-Beziehungen in Theorie und Praxis" 
+#### Workshop der Edition Annemarie Schwarzenbach<br/>
+Intermedialität ist ein zentrales Charakteristikum des Werks von Annemarie Schwarzenbach. Zusammen mit Expert:innen der Fotografie-Geschichte gehen wir der Frage nach dem Bild-Text-Verhältnis in ihren Briefen, Fotografien und Publikationen nach. 
+
+10.00-17.30 Uhr <br/>
+Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<br/> 
+[Programm](https://www.ds.uzh.ch/apps/_files/uploads/agenda/1602.pdf)
 
 ---
 
