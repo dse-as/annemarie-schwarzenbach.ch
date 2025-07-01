@@ -62,7 +62,7 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 <br/> <br/> 
 ## Aktuelle Veranstaltungen
 
-**26. Juli 2025**<br/> 
+**16. Juli 2025**<br/> 
 ### "Diskriminierungssensibles Edieren. Die digitale Edition Annemarie Schwarzenbach"
 #### Vortrag am Panel "Diskriminierungssensible Metadaten für historische Sammlungen erstellen und verschiedenen Öffentlichkeiten zugänglich machen: Herausforderungen und Ansätze für inklusive Digital Humanities"
 
