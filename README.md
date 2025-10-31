@@ -128,7 +128,7 @@ Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<b
     </td>
     <td width="250px;">
       <a href="https://dh.unibe.ch">
-        <img width="100px;" src="https://www.schulungzms.unibe.ch/unibe/portal/microsites/zms_schulung/content/e395292/e36790/e36810/e36851/e1384749/Icon_Logo_2_ger.png"/>
+        <img width="100px;" src="https://www.jobs.apps.be.ch/directlink/1005086002/assets/images/logo_unibern.png"/>
       </a>
       <a href="https://dsl.unibe.ch">
         <img width="100px;" src="https://avatars.githubusercontent.com/u/130562494?s=200&v=4"/>
