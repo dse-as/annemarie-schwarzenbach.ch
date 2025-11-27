@@ -78,8 +78,8 @@ Präsentationen des Projektes werden im Zenodo repository gesammelt: https://zen
 Der Edition von Ambivalenzen wird im Vortrag auf drei Ebenen nachgegangen: 1. der Konzeption (wie werden die Ambivalenzen und ihre Problematik durch Aufbau und Vermittlung der Edition verständlich?); 2. der Kommentierung (was wird als Ambivalenz in welcher Kommentarebene und -tiefe angesprochen?) und letztlich 3. der Codierung (wie werden problematische Stellen über den Kommentar hinaus auffindbar gemacht, wo wird z.B. das Tagging von Rassismus selbst zum Problem?). 
 
 17.15-18.45 Uhr<br/>
-Universität Rostock, Philologicum, Großer Hörsaal (2. OG), Universitätsplatz 3, 18055 Rostock
-[Vortragsthema](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2025-26/n/ambivalenzen-edieren-mediale-und-postkoloniale-herausforderungen-in-der-digitalen-edition-annemarie-schwarzenbach-246507/)
+Universität Rostock, Philologicum, Großer Hörsaal (2. OG), Universitätsplatz 3, 18055 Rostock<br/> 
+[Vortragsthema](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2025-26/n/ambivalenzen-edieren-mediale-und-postkoloniale-herausforderungen-in-der-digitalen-edition-annemarie-schwarzenbach-246507/)<br/> 
 [Programm Ringvorlesung](https://www.germanistik.uni-rostock.de/storages/uni-rostock/Alle_PHF/Germanistik/Forschung/Arbeitskreis_RosDH/Ringvorlesung/2025-26/Plakat_WiSe_25-26.ai.pdf)
 
 ---
