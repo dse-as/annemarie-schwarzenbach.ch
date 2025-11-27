@@ -79,7 +79,7 @@ Der Edition von Ambivalenzen wird im Vortrag auf drei Ebenen nachgegangen: 1. de
 
 17.15-18.45 Uhr<br/>
 Universität Rostock, Philologicum, Großer Hörsaal (2. OG), Universitätsplatz 3, 18055 Rostock
-[Vortragsthema](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2025-26/n/ambivalenzen-edieren-mediale-und-postkoloniale-herausforderungen-in-der-digitalen-edition-annemarie-schwarzenbach-246507/
+[Vortragsthema](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2025-26/n/ambivalenzen-edieren-mediale-und-postkoloniale-herausforderungen-in-der-digitalen-edition-annemarie-schwarzenbach-246507/)
 [Programm Ringvorlesung](https://www.germanistik.uni-rostock.de/storages/uni-rostock/Alle_PHF/Germanistik/Forschung/Arbeitskreis_RosDH/Ringvorlesung/2025-26/Plakat_WiSe_25-26.ai.pdf)
 
 ---
