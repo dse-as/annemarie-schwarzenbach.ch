@@ -63,7 +63,7 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 ## Aktuelle Veranstaltungen
 
 **13.-15. April 2026**
-### Netzwerke um Annemarie Schwarzenbach: Briefe, Reisen, Arbeitsgemeinschaften
+### "Netzwerke um Annemarie Schwarzenbach: Briefe, Reisen, Arbeitsgemeinschaften"
 #### Tagung im und in Zusammenarbeit mit dem Literarchiv Monacensia, München
 Detaillierte Informationen und das Tagungsprogramm folgen an dieser Stelle.
 
@@ -73,7 +73,7 @@ Detaillierte Informationen und das Tagungsprogramm folgen an dieser Stelle.
 Präsentationen des Projektes werden im Zenodo repository gesammelt: https://zenodo.org/communities/dse-as  
 
 **24. November 2025**
-### Ambivalenzen Edieren. Mediale und gattungstheoretische Herausforderungen in der digitalen Edition Annemarie Schwarzenbach
+### "Ambivalenzen Edieren. Mediale und gattungstheoretische Herausforderungen in der digitalen Edition Annemarie Schwarzenbach"
 #### Vortrag in der Ringvolresung 'Digital Humanities im Fokus: Methoden, Anwendungen und Perspektiven', Digital Humanities Universität Rostock
 Der Edition von Ambivalenzen wird im Vortrag auf drei Ebenen nachgegangen: 1. der Konzeption (wie werden die Ambivalenzen und ihre Problematik durch Aufbau und Vermittlung der Edition verständlich?); 2. der Kommentierung (was wird als Ambivalenz in welcher Kommentarebene und -tiefe angesprochen?) und letztlich 3. der Codierung (wie werden problematische Stellen über den Kommentar hinaus auffindbar gemacht, wo wird z.B. das Tagging von Rassismus selbst zum Problem?). 
 
