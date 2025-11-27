@@ -62,14 +62,25 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 <br/> <br/> 
 ## Aktuelle Veranstaltungen
 
-**5. September 2025:**<br/> 
-### "Interfaces. Zwischen Haute Couture und Prêt-à-Porter" 
-#### Workshop der ZDE-Reihe _Open Editions_ <br/>
-In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalytik](https://www.zde.uzh.ch/), UZH, veranstaltet die Edition Annemarie Schwarzenbach einen Workshop zur Konzeption von Interfaces von digitalen Editionen: Was sind heutige Standards, welche Herausforderungen erleben Editionsprojekte, wie sehen Interfaces der Zukunft aus?
+**13.-15. April 2026**
+### Netzwerke um Annemarie Schwarzenbach: Briefe, Reisen, Arbeitsgemeinschaften
+#### Tagung im und in Zusammenarbeit mit dem Literarchiv Monacensia, München
+Detaillierte Informationen und das Tagungsprogramm folgen an dieser Stelle.
 
-13.15-18 Uhr <br/>
-Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/> 
-[Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
+<br/> <br/> 
+## Vergangene Veranstaltungen
+
+Präsentationen des Projektes werden im Zenodo repository gesammelt: https://zenodo.org/communities/dse-as  
+
+**24. November 2025**
+### Ambivalenzen Edieren. Mediale und gattungstheoretische Herausforderungen in der digitalen Edition Annemarie Schwarzenbach
+#### Vortrag in der Ringvolresung 'Digital Humanities im Fokus: Methoden, Anwendungen und Perspektiven', Digital Humanities Universität Rostock
+Der Edition von Ambivalenzen wird im Vortrag auf drei Ebenen nachgegangen: 1. der Konzeption (wie werden die Ambivalenzen und ihre Problematik durch Aufbau und Vermittlung der Edition verständlich?); 2. der Kommentierung (was wird als Ambivalenz in welcher Kommentarebene und -tiefe angesprochen?) und letztlich 3. der Codierung (wie werden problematische Stellen über den Kommentar hinaus auffindbar gemacht, wo wird z.B. das Tagging von Rassismus selbst zum Problem?). 
+
+17.15-18.45 Uhr<br/>
+Universität Rostock, Philologicum, Großer Hörsaal (2. OG), Universitätsplatz 3, 18055 Rostock
+[Vortragsthema](https://www.germanistik.uni-rostock.de/forschung/digital-humanities/rosdh/ringvorlesung/2025-26/n/ambivalenzen-edieren-mediale-und-postkoloniale-herausforderungen-in-der-digitalen-edition-annemarie-schwarzenbach-246507/
+[Programm Ringvorlesung](https://www.germanistik.uni-rostock.de/storages/uni-rostock/Alle_PHF/Germanistik/Forschung/Arbeitskreis_RosDH/Ringvorlesung/2025-26/Plakat_WiSe_25-26.ai.pdf)
 
 ---
 
@@ -83,10 +94,19 @@ Doktorierende und Masterstudierende der UZH können sich zusätzlich über das V
 10-18 Uhr<br/>
 Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-G-220<br/> 
 [Programm](https://zenodo.org/records/16761980)
-<br/> <br/> 
-## Vergangene Veranstaltungen
 
-Präsentationen des Projektes werden im Zenodo repository gesammelt: https://zenodo.org/communities/dse-as  
+---
+
+**5. September 2025:**<br/> 
+### "Interfaces. Zwischen Haute Couture und Prêt-à-Porter" 
+#### Workshop der ZDE-Reihe _Open Editions_ <br/>
+In einer Kooperation mit dem [Zentrum für digitale Editionen und Editionsanalytik](https://www.zde.uzh.ch/), UZH, veranstaltet die Edition Annemarie Schwarzenbach einen Workshop zur Konzeption von Interfaces von digitalen Editionen: Was sind heutige Standards, welche Herausforderungen erleben Editionsprojekte, wie sehen Interfaces der Zukunft aus?
+
+13.15-18 Uhr <br/>
+Universität Zürich, Rämistrasse 71, 8006 Zürich, KOL-F-104<br/> 
+[Programm](https://www.zde.uzh.ch/de/openeditions/interface_ws.html)
+
+---
 
 **16. Juli 2025**<br/> 
 ### "Diskriminierungssensibles Edieren. Die digitale Edition Annemarie Schwarzenbach"
