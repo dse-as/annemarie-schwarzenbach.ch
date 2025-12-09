@@ -54,7 +54,7 @@ Verantwortung Edition: [PD Dr. Daniela Kohler](https://www.ds.uzh.ch/apps/cms/pf
 Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.php?detail=1488)   
 
  *Digitale Entwicklung: [Data Science Lab](https://www.dsl.unibe.ch/), Universität Bern*  
-[Peter Dängeli](http://www.dh.unibe.ch/ueber_uns/personen/daengeli_peter/), [Christian Forney](http://www.hist.unibe.ch/ueber_uns/personen/forney_christian/), [Sebastian Flick](http://www.dsl.unibe.ch/about_us/people_metadata/flick_sebastian/)  
+[Levyn Bürki](https://dh.unibe.ch/about_us/people/buerki_levyn/), [Peter Dängeli](https://dh.unibe.ch/ueber_uns/personen/daengeli_peter/), [Christian Forney](https://hist.unibe.ch/ueber_uns/personen/forney_christian/), [Sebastian Flick](https://dsl.unibe.ch/about/people_metadata/flick_sebastian/)
 
  *Projektpartner*  
 [Dr. Moritz Wagner](https://www.nb.admin.ch/snl/de/home/ueber-uns/sla/benutzungsla/mitarbeitende.html), Schweizerisches Literaturarchiv  
