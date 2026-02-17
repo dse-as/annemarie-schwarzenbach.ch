@@ -138,7 +138,7 @@ Universität Zürich, Rämistr. 71, 8006 Zürich, KOL-E-13, ‘Senatszimmer’<b
     </td>    
     <td width="250px;">
       <a href="https://www.ds.uzh.ch">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Universit%C3%A4t_Z%C3%BCrich_logo.svg/640px-Universit%C3%A4t_Z%C3%BCrich_logo.svg.png"/>
+        <img src="https://www.cd.uzh.ch/dam/jcr:c2f7701e-f4b6-4d91-ab93-85853a133f29/uzh-logo-black.png"/>
       </a>
     </td>
     <td width="250px;">
