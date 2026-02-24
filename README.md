@@ -71,8 +71,8 @@ Wenn Annemarie Schwarzenbach in ihrem ersten Roman Freunde um Bernhard (1931) ei
 
 Die Tagungsteilnahme ist kostenlos vor Ort oder online möglich. In beiden Fällen wird um Anmeldung gebeten, online-Zugangsinformationen werden per Mail versandt: elias.zimmermann@uzh.ch<br/> 
 
-[Tagungsposter](https://zenodo.org/records/18760912/files/Poster_Netzwerke%20um%20Annemarie%20Schwarzenbach.pdf?download=1&preview=1)<br/> 
-[Tagungsflyer](https://zenodo.org/records/18760912/files/Flyer_Netzwerke%20um%20Annemarie%20Schwarzenbach.pdf?download=1&preview=1)<br/> 
+[Tagungsposter](https://zenodo.org/records/18762955/files/Flyer_Netzwerke%20um%20Annemarie%20Schwarzenbach.pdf?download=1)<br/> 
+[Tagungsflyer](https://zenodo.org/records/18762955/files/Poster_Netzwerke%20um%20Annemarie%20Schwarzenbach.pdf?download=1)<br/> 
 
 <br/> <br/> 
 ## Vergangene Veranstaltungen
