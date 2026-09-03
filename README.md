@@ -64,7 +64,7 @@ Doktorandin: [MA Céline Hübscher](https://www.ds.uzh.ch/apps/cms/pfs/personen.
 
 **3. September 2026**
 ### "Diskriminierung (nicht) edieren. Diskriminierungssensible Editions-Richtlinien am Beispiel der digitalen Edition Annemarie Schwarzenbach"
-### Vortrag an der Tagung "Editopia Zur Zukunft von Dokumentologie und Editorik im Postdigitalen", Wuppertal, 2.-4. September 2026
+#### Vortrag an der Tagung "Editopia Zur Zukunft von Dokumentologie und Editorik im Postdigitalen", Wuppertal, 2.-4. September 2026
 Die Schwarzenbach-Edition hat seit 2025 im Austausch mit postkolonialer Forschung, zivilgesellschaftlichen Initiativen und Archiv- und Forschungsinstitutionen projekteigene diskriminierungssensible Editions-Richtlinien erarbeitet. Diese stellen grundsätzliche Überlegungen zur Vermittlung der Inhalte an und konkretisieren sie in Codierungs-, Kommentierungs- und Darstellungsrichtlinien. So werden beispielswiese diskriminierende Ausdrücke in TEI/XML ausgezeichnet, um die automatisierte und gezielte Ausspielung von Content Notes mit Referenzen auf erklärende editoriale Kommentare im Frontend zu generieren. Wir möchten anhand dieser vorläufigen Richtlinien mit der Editions-Community über diskriminierungssensible Ansätze ins Gespräch kommen und die Richtlinien in einem weiteren Schritt der Forschungsgemeinschaft zur Verfügung stellen. 
 [Tagungsprogramm](https://editopia2026.i-d-e.de/programm.html)
 
